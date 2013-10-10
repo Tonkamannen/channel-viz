@@ -3,8 +3,8 @@
 	/*
 	EXAMPLE CONFIGURATION
 
-		var defaultKey	= 'fje329iun52ngtuijo2f4jeun432A', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [61916,12425,94322], // Comma separated array of Xively Feed ID numbers
+		var defaultKey	= 'xGiukdVvujYxceD2psI8V2zJEq5I0tUmULI78qf4JayynCuY', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [1892580236], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'My Company\'s Application', // Replaces Xively logo in the header
 		dataDuration	= '90days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 10800, // Default interval for data to be displayed (in seconds)
@@ -12,11 +12,11 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= '', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [], // Comma separated array of Xively Feed ID numbers
-		applicationName	= '', // Replaces Xively logo in the header
-		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
-		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
+	var defaultKey		= 'xGiukdVvujYxceD2psI8V2zJEq5I0tUmULI78qf4JayynCuY', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [1892580236], // Comma separated array of Xively Feed ID numbers
+		applicationName	= 'Kolonin', // Replaces Xively logo in the header
+		dataDuration	= '90days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
+		dataInterval	= 10800, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
 		hideForm		= 0; // To hide input form use value of 1, otherwise set to 0
 
