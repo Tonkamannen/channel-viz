@@ -15,7 +15,7 @@
 	var defaultKey		= 'xGiukdVvujYxceD2psI8V2zJEq5I0tUmULI78qf4JayynCuY', // Unique master Xively API key to be used as a default
 		defaultFeeds	= ['1892580236!tempgreen!humidgreen'], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Greenhouse', // Replaces Xively logo in the header
-		dataDuration	= '1week', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
+		dataDuration	= '6hours', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 120, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
 		hideForm		= 0; // To hide input form use value of 1, otherwise set to 0
