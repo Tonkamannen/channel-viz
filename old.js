@@ -13,8 +13,8 @@
 	*/
 
 	var defaultKey		= 'xGiukdVvujYxceD2psI8V2zJEq5I0tUmULI78qf4JayynCuY', // Unique master Xively API key to be used as a default
-		defaultFeeds	= ['1892580236!tempnew!humidnew'], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'Inne Kolinin', // Replaces Xively logo in the header
+		defaultFeeds	= ['1892580236!tempold!humidold'], // Comma separated array of Xively Feed ID numbers
+		applicationName	= 'Gamla Kolinin', // Replaces Xively logo in the header
 		dataDuration	= '6hours', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 120, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
